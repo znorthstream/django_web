@@ -103,7 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-
+#user specified ingnore
+.idea
 myvenv
 db.sqlite3
 /static
